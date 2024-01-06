@@ -1,14 +1,10 @@
 const addButton = document.querySelector('#add-button');
 
 addButton.addEventListener('click', () => {
-  const input = document.querySelector('#input');
-  const text = input.value.trim();
-
-  if (text !== '') {
-    addToList(text);
-    input.value = '';
-    input.focus();
-  }
+  <script type="text/javascript">
+   var returnValue = confirm('안녕하세요?');
+   alert(returnValue);
+</script>
 });
 
 function addToList(text) {
@@ -21,3 +17,5 @@ function addToList(text) {
 
   list.appendChild(newListItem);
 }
+
+
