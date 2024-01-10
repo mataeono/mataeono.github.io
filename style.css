@@ -50,14 +50,17 @@ h1 {
 }
 .my_btn {
 
-	  background-color: skyblue;
-
-	  color: white;
-
-	  border: none;
-
+	    display: inline-block;
+            width: 200px;
+            background-color: burlywood;
 	  
 
-	  padding: 8px 20px;
+	}
+.my_btn1 {
+
+	    
+            background-color: burlywood;
+
+	  
 
 	}
