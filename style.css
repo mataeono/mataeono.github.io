@@ -48,3 +48,16 @@ h1 {
     padding: 16px 0;
     font-size: 14px;
 }
+.my_btn {
+
+	  background-color: skyblue;
+
+	  color: white;
+
+	  border: none;
+
+	  
+
+	  padding: 8px 20px;
+
+	}
