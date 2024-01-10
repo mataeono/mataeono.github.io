@@ -52,15 +52,13 @@ h1 {
 
 	    display: inline-block;
             width: 200px;
-            background-color: burlywood;
+            background-color: cadetblue;
 	  
 
 	}
 .my_btn1 {
 
-	    
-            background-color: burlywood;
-
-	  
-
+	    display: inline-block;
+            width: 200px;
+            background-color: cadetblue;
 	}
