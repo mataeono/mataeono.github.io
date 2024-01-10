@@ -9,6 +9,6 @@ window.onload=function(){
 setTimeout(function() {
   
    win.style.visibility = 'visible';
-}, 3000);
+}, 60000);
 
 
